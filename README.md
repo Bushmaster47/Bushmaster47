@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bushmaster47
+- 👋 Hi, I’m @Kevon Ceasar
 - 👀 I’m interested in ...software development 
-- 🌱 I’m currently learning ...Python
+- 🌱 I’m currently learning ...Javascript
 - 💞️ I’m looking to collaborate on ...Software Development training
 - 📫 How to reach me ...ceasarkevon@gmail.com
 
